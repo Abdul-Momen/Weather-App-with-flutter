@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Weather-App-with-flutter.iml" filepath="$PROJECT_DIR$/.idea/Weather-App-with-flutter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weather_app_with_flutter.iml" filepath="$PROJECT_DIR$/.idea/weather_app_with_flutter.iml" />
     </modules>
   </component>
 </project>
